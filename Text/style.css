@@ -1,0 +1,31 @@
+* {
+     margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: black;
+}
+h1{
+    font-size: 50px;
+    font-style: italic;
+    color: lightblue;
+}
+cite{
+    font-style: oblique;
+    color: white;
+}
+strong{
+    font-style: oblique;
+    color: white;
+}
+caption{
+    color: brown;
+}
+p{
+    color: burlywood;
+}
+div{
+    color: beige;
+}
+span{
+    color: red;
+}
